@@ -23,5 +23,6 @@ public class MainClass {
         log.log(Level.DEBUG, "This is debug from Level.DEBUG");
         log.log(Level.INFO, "This is info from Level.INFO");
         log.log(Level.ERROR, "This is error from Level.ERROR");
+        System.out.println("second time uploading in git");
     }
 }
